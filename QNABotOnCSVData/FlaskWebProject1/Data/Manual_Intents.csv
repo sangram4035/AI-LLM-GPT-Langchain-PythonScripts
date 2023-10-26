@@ -1,0 +1,506 @@
+INTENT,UTTERANCES
+AddFeedbackComment,?? add comment to my feedback
+AddFeedbackComment,add comment to my feedback
+AddFeedbackComment,feedback comment
+AddFeedbackComment,i want to add comment to my feedback
+ViewSupportTickets,all support tickets
+ViewSupportTickets,all tickets
+ViewSupportTickets,check my tickets
+ViewSupportTickets,check service now ticket status
+ViewSupportTickets,check ticket status
+ViewSupportTickets,did the status of my ticket change
+ViewSupportTickets,display status of my tickets
+ViewSupportTickets,get my ticket status
+ViewSupportTickets,get ticket status
+ViewSupportTickets,has the status of my ticket changed
+ViewSupportTickets,how to follow up my ticket
+ViewSupportTickets,i want to know status of snow ticket
+ViewSupportTickets,i want to know the status of my ticket
+ViewSupportTickets,i want to update a comment
+ViewSupportTickets,i'd like to know my ticket status
+ViewSupportTickets,incident
+ViewSupportTickets,know my incident status
+ViewSupportTickets,know my request status
+ViewSupportTickets,my ticket status
+ViewSupportTickets,my tickets check
+ViewSupportTickets,provide ticket status
+ViewSupportTickets,search ticket
+ViewSupportTickets,service now ticket
+ViewSupportTickets,service now ticket status
+ViewSupportTickets,service now tickets
+ViewSupportTickets,show all my tickets
+ViewSupportTickets,show me my tickets
+ViewSupportTickets,show my tickets
+ViewSupportTickets,show/view my pending tickets
+ViewSupportTickets,snow ticket status
+ViewSupportTickets,stage of the ticket
+ViewSupportTickets,status of all my tickets
+ViewSupportTickets,status of my issue reported
+ViewSupportTickets,status of my ticket
+ViewSupportTickets,status of the ticket
+ViewSupportTickets,status of ticket
+ViewSupportTickets,support tickets
+ViewSupportTickets,ticket information
+ViewSupportTickets,ticket search
+ViewSupportTickets,ticket status
+ViewSupportTickets,update comment
+ViewSupportTickets,view my ticket
+ViewSupportTickets,view my tickets
+ViewSupportTickets,view support tickets
+ViewSupportTickets,view ticket status
+ViewSupportTickets,what is going on with my ticket
+ViewSupportTickets,what is the stage of my ticket
+None,"as an employee who received the benefit of ewt,"
+None,can you send me a new password for my pc?
+None,how to contact natixis?
+None,however i’m based outside india. will i be eligible for employee welfare trust?
+None,hrc123
+None,hrc234
+None,i am a schneider electric india employee
+None,i need to change the first name in a profile declared in ids. how to do it?
+None,i need to report my expenses
+None,i want to resign
+None,inc123
+None,leave
+None,leave management
+None,paid leave
+None,policy
+None,req123
+None,ritm123
+None,sick / care leave
+None,welcome day
+None,what do i do with my amex card if i change legal entity?
+None,what is stepup?
+None,what should i do with my amex card if i change legal entity?
+AskMeAnyThing,ask me anything
+AskMeAnyThing,ask random questions
+AskMeAnyThing,free text
+AskMeAnyThing,gpt3
+AskMeAnyThing,openai
+NotHelpfulFreeText,bad
+NotHelpfulFreeText,not helpful
+NotHelpfulFreeText,not useful
+NotHelpfulFreeText,very bad
+LeaveBalance,balance of my leaves
+LeaveBalance,check days off balance
+LeaveBalance,check leave
+LeaveBalance,check my annual leave quota
+LeaveBalance,check my leave balance
+LeaveBalance,check my paid leave balance
+LeaveBalance,check my privileged leave balance
+LeaveBalance,holiday balance
+LeaveBalance,holidays list
+LeaveBalance,how many days leave i have
+LeaveBalance,how many leave do i have
+LeaveBalance,how many leaves
+LeaveBalance,how many leaves can i avail
+LeaveBalance,how many leaves can i take
+LeaveBalance,leave balance
+LeaveBalance,leave days balance
+LeaveBalance,leave quota
+LeaveBalance,my leave balance
+LeaveBalance,my leave quota
+LeaveBalance,pay link
+LeaveBalance,paylink
+LeaveBalance,pto balance
+LeaveBalance,pto days
+LeaveBalance,remaining leave days
+LeaveBalance,what is my annual leave quota
+LeaveBalance,what is my current paid leave balance?
+LeaveBalance,what is my leave balance
+MainMenuInterruption,bon soir
+MainMenuInterruption,bonjour
+MainMenuInterruption,bonjour jo
+MainMenuInterruption,bonsoir
+MainMenuInterruption,bonsoir jo
+MainMenuInterruption,can you tell more about yourself?
+MainMenuInterruption,good afternoon
+MainMenuInterruption,good evening
+MainMenuInterruption,good evening jo
+MainMenuInterruption,good morning
+MainMenuInterruption,good morning jo
+MainMenuInterruption,hello
+MainMenuInterruption,hello bot
+MainMenuInterruption,hello chatbot
+MainMenuInterruption,hello jo
+MainMenuInterruption,hello there
+MainMenuInterruption,hello virtual assistant
+MainMenuInterruption,here i am
+MainMenuInterruption,hey
+MainMenuInterruption,hey bot
+MainMenuInterruption,hey virtual assistant
+MainMenuInterruption,hi
+MainMenuInterruption,hi bot
+MainMenuInterruption,hi va
+MainMenuInterruption,hi virtual assistant
+MainMenuInterruption,hola
+MainMenuInterruption,home
+MainMenuInterruption,how can you help me?
+MainMenuInterruption,i am here
+MainMenuInterruption,i'm back
+MainMenuInterruption,morning
+MainMenuInterruption,restart
+MainMenuInterruption,restart chat
+MainMenuInterruption,show me how you can help
+MainMenuInterruption,welcome
+MainMenuInterruption,what are you?
+MainMenuInterruption,what can i use this app for?
+MainMenuInterruption,what can i use this chatbot for?
+MainMenuInterruption,what can this app do?
+MainMenuInterruption,what can this chatbot do?
+MainMenuInterruption,what can you do?
+MainMenuInterruption,what is this app about?
+MainMenuInterruption,what is this app?
+MainMenuInterruption,what is this chatbot about?
+MainMenuInterruption,what is this chatbot?
+MainMenuInterruption,who is this?
+MainMenuInterruption,yo
+GetTalentLinkDetails,business unit
+GetTalentLinkDetails,business unit of mine
+GetTalentLinkDetails,can you confirm my cost center
+GetTalentLinkDetails,can you give me the name of my hr business partner please
+GetTalentLinkDetails,can you give me the name of my hrbp please
+GetTalentLinkDetails,can you tell me my bu please
+GetTalentLinkDetails,change my business unit
+GetTalentLinkDetails,change my cost center
+GetTalentLinkDetails,change my department
+GetTalentLinkDetails,change my hrbp
+GetTalentLinkDetails,change my job code
+GetTalentLinkDetails,change my job title
+GetTalentLinkDetails,change my legal entity
+GetTalentLinkDetails,change my location
+GetTalentLinkDetails,check my bu
+GetTalentLinkDetails,check my business location please
+GetTalentLinkDetails,check my business title
+GetTalentLinkDetails,check my business unit
+GetTalentLinkDetails,check my cc
+GetTalentLinkDetails,check my cost center
+GetTalentLinkDetails,check my costcenter
+GetTalentLinkDetails,check my department information
+GetTalentLinkDetails,check my job code
+GetTalentLinkDetails,check my job name
+GetTalentLinkDetails,check my job position
+GetTalentLinkDetails,check my job title
+GetTalentLinkDetails,check my legal entity
+GetTalentLinkDetails,check my location
+GetTalentLinkDetails,check the name of my hrbp
+GetTalentLinkDetails,confirm my business title please
+GetTalentLinkDetails,confirm my business unit
+GetTalentLinkDetails,confirm my department
+GetTalentLinkDetails,confirm my job name
+GetTalentLinkDetails,confirm my legal entity
+GetTalentLinkDetails,confirm my location
+GetTalentLinkDetails,correct my business unit
+GetTalentLinkDetails,correct my cost center
+GetTalentLinkDetails,correct my department
+GetTalentLinkDetails,correct my hrbp
+GetTalentLinkDetails,correct my job code
+GetTalentLinkDetails,correct my job title
+GetTalentLinkDetails,correct my legal entity
+GetTalentLinkDetails,correct my location
+GetTalentLinkDetails,cost center
+GetTalentLinkDetails,cost centre
+GetTalentLinkDetails,department
+GetTalentLinkDetails,find my job code
+GetTalentLinkDetails,fix my business unit
+GetTalentLinkDetails,fix my cost center
+GetTalentLinkDetails,fix my hrbp
+GetTalentLinkDetails,fix my job code
+GetTalentLinkDetails,fix my job title
+GetTalentLinkDetails,fix my location
+GetTalentLinkDetails,how can i check if my new job position is updated
+GetTalentLinkDetails,how do i change my department
+GetTalentLinkDetails,how do i correct my department
+GetTalentLinkDetails,how do i find my cc
+GetTalentLinkDetails,how do i find my department name
+GetTalentLinkDetails,how do i find my legal entity
+GetTalentLinkDetails,how do i find my new job title
+GetTalentLinkDetails,how do i modify my department
+GetTalentLinkDetails,how do i update my department
+GetTalentLinkDetails,hr
+GetTalentLinkDetails,hrbp
+GetTalentLinkDetails,job code
+GetTalentLinkDetails,job titile
+GetTalentLinkDetails,jobcode
+GetTalentLinkDetails,legal entity
+GetTalentLinkDetails,location
+GetTalentLinkDetails,modify my business unit
+GetTalentLinkDetails,modify my cost center
+GetTalentLinkDetails,modify my department
+GetTalentLinkDetails,modify my hrbp
+GetTalentLinkDetails,modify my job code
+GetTalentLinkDetails,modify my job title
+GetTalentLinkDetails,modify my legal entity
+GetTalentLinkDetails,modify my location
+GetTalentLinkDetails,my bu
+GetTalentLinkDetails,my business title
+GetTalentLinkDetails,my business unit
+GetTalentLinkDetails,my business unit details
+GetTalentLinkDetails,my cost center
+GetTalentLinkDetails,my cost centre
+GetTalentLinkDetails,my costcenter
+GetTalentLinkDetails,my department
+GetTalentLinkDetails,my dept
+GetTalentLinkDetails,my dept info
+GetTalentLinkDetails,my hr bp
+GetTalentLinkDetails,my hr business partner
+GetTalentLinkDetails,my hrbp
+GetTalentLinkDetails,my hrbp in my company
+GetTalentLinkDetails,my job location
+GetTalentLinkDetails,my job position
+GetTalentLinkDetails,my job title
+GetTalentLinkDetails,my job-code
+GetTalentLinkDetails,my jobcode
+GetTalentLinkDetails,my legal entity
+GetTalentLinkDetails,my legal entity information
+GetTalentLinkDetails,my location
+GetTalentLinkDetails,title of my job
+GetTalentLinkDetails,update my business unit
+GetTalentLinkDetails,update my cost center
+GetTalentLinkDetails,update my department
+GetTalentLinkDetails,update my hrbp
+GetTalentLinkDetails,update my job code
+GetTalentLinkDetails,update my job title
+GetTalentLinkDetails,update my legal entity
+GetTalentLinkDetails,update my location
+GetTalentLinkDetails,what is my bu
+GetTalentLinkDetails,what is my business unit
+GetTalentLinkDetails,what is my cc
+GetTalentLinkDetails,what is my cost center
+GetTalentLinkDetails,what is my costcenter
+GetTalentLinkDetails,what is my department
+GetTalentLinkDetails,what is my department please
+GetTalentLinkDetails,what is my job code
+GetTalentLinkDetails,what is my job code?
+GetTalentLinkDetails,what is my job location
+GetTalentLinkDetails,what is my job position
+GetTalentLinkDetails,what is my job title
+GetTalentLinkDetails,what is my legal employer
+GetTalentLinkDetails,what is my legal entity
+GetTalentLinkDetails,what is my legal entity please
+GetTalentLinkDetails,what is my location
+GetTalentLinkDetails,what is the name of my hrbp
+GetTalentLinkDetails,what is the name of my rhbp
+GetTalentLinkDetails,what's my job code please
+GetTalentLinkDetails,where can i find my cost center
+GetTalentLinkDetails,where can i find my current assignment name
+GetTalentLinkDetails,where can i see my bu
+GetTalentLinkDetails,where can i see my business unit
+GetTalentLinkDetails,where can i see my cost center
+GetTalentLinkDetails,where can i see my department
+GetTalentLinkDetails,where can i see my job code
+GetTalentLinkDetails,where can i see my job location
+GetTalentLinkDetails,where can i see my job title
+GetTalentLinkDetails,where can i see my legal entity
+GetTalentLinkDetails,where can i see the name of my hrbp
+GetTalentLinkDetails,who is my business partner
+GetTalentLinkDetails,who is my hr
+GetTalentLinkDetails,who is my hr bp
+GetTalentLinkDetails,who is my hrbp
+GetTalentLinkDetails,who is my rh
+GetTalentLinkDetails,whois my hrbp
+NoFreeText,by no means
+NoFreeText,no
+NoFreeText,not at all
+NoFreeText,not now
+SomewhatHelpfulFreeText,can be better
+SomewhatHelpfulFreeText,needs improvement
+SomewhatHelpfulFreeText,somewhat helpful
+GetManagerDetails,can you confirm the name of my manager?
+GetManagerDetails,can you give me the name of my manager?
+GetManagerDetails,check the name of my boss
+GetManagerDetails,manager
+GetManagerDetails,manager data in talentlink
+GetManagerDetails,manager data in tl
+GetManagerDetails,manager details
+GetManagerDetails,manager name
+GetManagerDetails,supervisor name
+GetManagerDetails,what is my manager's name
+GetManagerDetails,where can i see the name of my manager n+1?
+GetManagerDetails,who is my manager
+GetManagerDetails,who is my manager?
+GetManagerDetails,who is my supervisor
+EndAgentChat,cancel chat
+EndAgentChat,end chat
+EndAgentChat,end chat with agent
+EndAgentChat,end the discussion
+EndAgentChat,exit chat with agent
+EndAgentChat,leave chat
+EndAgentChat,stop chat with agent
+SupportTicketsByType,cancelled tickets
+SupportTicketsByType,check my closed tickets
+SupportTicketsByType,check my open cases
+SupportTicketsByType,check my open tickets
+SupportTicketsByType,closed support tickets
+SupportTicketsByType,closed tickets
+SupportTicketsByType,i want to update a commet
+SupportTicketsByType,my canceled ticket
+SupportTicketsByType,my open ticket
+SupportTicketsByType,my own tickets
+SupportTicketsByType,my ticket
+SupportTicketsByType,new tickets
+SupportTicketsByType,on behalf support tickets
+SupportTicketsByType,onbehalf tickets
+SupportTicketsByType,open support tickets
+SupportTicketsByType,open tickets
+SupportTicketsByType,self support tickets
+SupportTicketsByType,show closed tickets
+SupportTicketsByType,show my closed tickets
+SupportTicketsByType,show my open tickets
+SupportTicketsByType,show on behalf tickets
+SupportTicketsByType,show onbehalf tickets
+SupportTicketsByType,show open ticket
+SupportTicketsByType,show open tickets
+SupportTicketsByType,show recently closed tickets
+SupportTicketsByType,show self tickets
+SupportTicketsByType,ticket for others
+SupportTicketsByType,ticket for self
+SupportTicketsByType,tickets for others
+SupportTicketsByType,tickets for self
+SupportTicketsByType,tickets on behalf
+SupportTicketsByType,tickets onbehalf
+SupportTicketsByType,tickets raised for others
+SupportTicketsByType,update comments
+SupportTicketsByType,view cancelled tickets
+SupportTicketsByType,view closed ticket
+SupportTicketsByType,view closed tickets
+SupportTicketsByType,view my closed tickets
+SupportTicketsByType,view open ticket
+SupportTicketsByType,view open tickets
+ChangeCountry,change country
+ChangeCountry,change region
+ConfirmLanguageChangeFreeText,change it
+ConfirmLanguageChangeFreeText,"yes, change the language"
+ChangeLanguage,change language
+ChangeLanguage,change language to arabic
+ChangeLanguage,change language to french
+ChangeLanguage,change to anglais
+ChangeLanguage,change to arabic
+ChangeLanguage,change to french
+ChangeLanguage,changer la langue en anglais
+ChangeLanguage,changer la langue en francais
+ChangeLanguage,changer la langue en français
+ChangeLanguage,francais
+ChangeLanguage,français
+ChangeLanguage,french
+ChangeLanguage,parler en anglais
+ChangeLanguage,parler en francais
+ChangeLanguage,parler en français
+ChangeLanguage,passer au français
+ChangeLanguage,passer en anglais
+ChangeLanguage,switch language
+ChangeLanguage,switch language french
+ChangeLanguage,switch language to french
+ChangeLanguage,switch to french
+PostFeedbackAgent,chat with a peoplelink advisor
+PostFeedbackAgent,chat with a peoplelink agent
+PostFeedbackAgent,chat with advisor
+PostFeedbackAgent,chat with agent
+PostFeedbackAgent,chat with an agent
+PostFeedbackAgent,chat with ppl agent
+PostFeedbackAgent,connect me to a live agent
+PostFeedbackAgent,connect me to a live human
+PostFeedbackAgent,connect to a live chat
+PostFeedbackAgent,discuter avec l'agent ppl
+PostFeedbackAgent,discuter avec un agent
+PostFeedbackAgent,discuter avec un agent peoplelink
+PostFeedbackAgent,discuter avec un conseiller peoplelink
+PostFeedbackAgent,i want to speak to a real person
+PostFeedbackAgent,i want to talk to a human
+PostFeedbackAgent,live agent please
+PostFeedbackAgent,parlez à un agent
+PostFeedbackAgent,talk to an agent
+PostFeedbackKnowledgeArticle,check these knowledge articles for more info
+JobProfile,create a jd
+JobProfile,job description
+JobProfile,job position
+JobProfile,job profile creation
+EmployeeCertificate,ec
+EmployeeCertificate,employment certificate
+EmployeeCertificate,employment certificate request
+EmployeeCertificate,i need an employment certificate
+EmployeeCertificate,i request a certificate of employment
+EmployeeCertificate,i want a employee certificate
+EmployeeCertificate,i want an employee certificate
+EmployeeCertificate,please provide reference letter
+SupportTicketByNumber,get me the status of hrc0331223
+SupportTicketByNumber,get me the status of inc0321043
+SupportTicketByNumber,get me the status of sctask0161043
+SupportTicketByNumber,get me the ticket status of hrc0109467
+SupportTicketByNumber,get me the ticket status of hrc1902445
+SupportTicketByNumber,get me the ticket status of inc0100467
+SupportTicketByNumber,get me the ticket status of inc0122355
+SupportTicketByNumber,get me the ticket status of req01890123
+SupportTicketByNumber,get me the ticket status of req0224467
+SupportTicketByNumber,get me the ticket status of ritm0154983
+SupportTicketByNumber,get me the ticket status of ritm0884467
+SupportTicketByNumber,get me the ticket status of sctask0181043
+SupportTicketByNumber,get me the ticket status of sctask0239322
+SupportTicketByNumber,have a support ticket ritm0154993
+SupportTicketByNumber,i have a ticket number
+SupportTicketByNumber,i have a ticket number req0134467
+SupportTicketByNumber,my ticket number is inc0159170
+SupportTicketByNumber,please find me the status of inc0159322
+SupportTicketByNumber,please find me the status of ticket hrc0122322
+SupportTicketByNumber,please find me the status of ticket inc0159322
+SupportTicketByNumber,please find me the status of ticket req0269322
+SupportTicketByNumber,please find me the status of ticket ritm0789322
+SupportTicketByNumber,please find me the status of ticket sctask0339322
+SupportTicketByNumber,search by ticket number
+SupportTicketByNumber,ticket number
+SupportTicketByNumber,ticket number hrc0009322
+SupportTicketByNumber,ticket number inc0158222
+SupportTicketByNumber,ticket number req0158822
+SupportTicketByNumber,ticket number ritm0199322
+SupportTicketByNumber,ticket number sctask0399322
+SupportTicketByNumber,want to know the ticket status of hrc1752336
+SupportTicketByNumber,want to know the ticket status of inc0159322
+SupportTicketByNumber,want to know the ticket status of req07890
+TopicMenuInterruption,go back
+TopicMenuInterruption,lets get started
+TopicMenuInterruption,list
+TopicMenuInterruption,list of topics
+TopicMenuInterruption,menu
+TopicMenuInterruption,menu of topics
+TopicMenuInterruption,present your capabilities
+TopicMenuInterruption,show me menu
+TopicMenuInterruption,show menu
+TopicMenuInterruption,start
+TopicMenuInterruption,topic menu
+TopicMenuInterruption,topics
+TopicMenuInterruption,topics menu
+TopicMenuInterruption,what can i ask you for
+TopicMenuInterruption,what can we ask about
+TopicMenuInterruption,what can you do
+TopicMenuInterruption,what do you know
+TopicMenuInterruption,what is your knowledge
+TopicMenuInterruption,what is your scope
+HelpfulFreeText,good
+HelpfulFreeText,helpful
+HelpfulFreeText,like it
+HelpfulFreeText,love it
+HelpfulFreeText,useful
+HelpfulFreeText,very helpful
+Help,help me
+Help,how can you support me
+Help,how could you help me
+Help,i need a little guide
+Help,i need assistance
+Help,i need help
+Help,i need support
+Help,please assist me
+Help,please help
+Help,please support me
+KASearchFeedback,help us improve the knowledge article search
+PostFeedbackDone,i don't have any other question
+PostFeedbackDone,i don't have any other questions
+PostFeedbackTicket,i want to raise a ticket
+PostFeedbackTicket,link to open s@s ticket
+PostFeedbackTicket,open a support@schneider ticket
+PostFeedbackTicket,where can i raise a ticket
+TipsAndTricks,is there a guide for what i can do here?
+TipsAndTricks,tips
+TipsAndTricks,tips and tricks
+TipsAndTricks,tricks
+TipsAndTricks,what are your features?
+TipsAndTricks,what features do you have?
